@@ -38,7 +38,17 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ## 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=E70488"/> <img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=4DABCF"/> <img src="https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/> <img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811"/> <img src="https://img.shields.io/badge/Excel-0F172A?style=flat-square&logo=microsoftexcel&logoColor=217346"/> <img src="https://img.shields.io/badge/Google%20Sheets-0F172A?style=flat-square&logo=googlesheets&logoColor=34A853"/> <img src="https://img.shields.io/badge/PowerPoint-0F172A?style=flat-square&logo=microsoftpowerpoint&logoColor=B7472A"/> <img src="https://img.shields.io/badge/Canva
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoffice/microsoftoffice-original.svg" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" height="40"/>
+
 
 
 
