@@ -38,7 +38,31 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ## 🛠 Tech Stack
 
-🐍 Python &nbsp;|&nbsp; 📊 Pandas &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 📈 Matplotlib &nbsp;|&nbsp; 🗄️ SQL Server &nbsp;|&nbsp; 🐬 MySQL &nbsp;|&nbsp; 📉 Power BI &nbsp;|&nbsp; 📑 Excel &nbsp;|&nbsp; 📄 Google Sheets &nbsp;|&nbsp; 🖥️ PowerPoint &nbsp;|&nbsp; 🎨 Canva
+### 🐍 Programming & Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+
+---
+
+### 🎨 Design & Presentation
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 
 
