@@ -36,6 +36,11 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
+## 🛠 Tech Stack
+
+🐍 Python &nbsp;|&nbsp; 📊 Pandas &nbsp;|&nbsp; 🔢 NumPy &nbsp;|&nbsp; 📈 Matplotlib &nbsp;|&nbsp; 🗄️ SQL Server &nbsp;|&nbsp; 🐬 MySQL &nbsp;|&nbsp; 📉 Power BI &nbsp;|&nbsp; 📑 Excel &nbsp;|&nbsp; 📄 Google Sheets &nbsp;|&nbsp; 🖥️ PowerPoint &nbsp;|&nbsp; 🎨 Canva
+
+
 
 
 
