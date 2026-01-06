@@ -18,9 +18,8 @@ You bring the snacks, I’ll bring the code 🍪💻
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-gautam-52a4b6377/)
 
-## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-gautam-52a4b6377/)
 
-[🔗 LinkedIn](https://www.linkedin.com/in/saksham-gautam-52a4b6377/)
 
 ## 🖥️ Tech Stack
 
