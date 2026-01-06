@@ -38,31 +38,17 @@ You bring the snacks, I’ll bring the code 🍪💻
 
 ## 🛠 Tech Stack
 
-### 🐍 Programming & Data Analysis
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-2C2C2C?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📊 Visualization & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-
----
-
-### 🎨 Design & Presentation
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
+<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/Matplotlib-0F172A?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-0F172A?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Power%20BI-0F172A?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/Excel-0F172A?style=flat-square&logo=microsoftexcel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-0F172A?style=flat-square&logo=googlesheets&logoColor=34A853"/>
+<img src="https://img.shields.io/badge/PowerPoint-0F172A?style=flat-square&logo=microsoftpowerpoint&logoColor=B7472A"/>
+<img src="https://img.shields.io/badge/Canva-0F172A?style=flat-square&logo=canva&logoColor=00C4CC"/>
 
 
 
